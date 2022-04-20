@@ -1,4 +1,27 @@
-# Getting Started with Create React App
+# Wallet Tracker
+
+This is a basic portfolio manager front end that allows you to add any number of BTC Wallets and monitor their holdings.
+
+## Setup
+
+- Download repository to your local machine
+- Run "npm install" to install all require packages
+- Run "npm start" in cointracker directory
+
+## Use
+
+- Add wallets by their respective address
+- View indivicual wallet contents and total contents of all wallets
+- Click on a wallet to see its most recent transactions
+
+## To Do
+
+Next steps for development include
+- Replacing transaction addresses with a discription of the transaction
+- Implement Sync Wallets functionality to update to most recent state of the blockchain
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
